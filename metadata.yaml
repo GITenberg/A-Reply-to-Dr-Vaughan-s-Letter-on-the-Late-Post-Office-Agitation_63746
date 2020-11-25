@@ -1,0 +1,26 @@
+_repo: A-Reply-to-Dr-Vaughan-s-Letter-on-the-Late-Post-Office-Agitation_63746
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pears, James Roberts
+    alias: Pears, James R.‏
+    gutenberg_agent_id: '52581'
+    url: http://www.gutenberg.org/2009/agents/52581
+description: ''
+gutenberg_issued: '2020-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63746'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Postal service -- Great Britain'
+- !lcc 'HE'
+- !lcsh 'Sunday legislation -- Great Britain'
+- !lcsh 'Vaughan, C. J. (Charles John), 1816-1897. Letter on the late Post-Office
+  agitation'
+- GITenberg
+title: A Reply to Dr. Vaughan's "Letter on the Late Post-Office Agitation"
+url: http://www.gutenberg.org/ebooks/63746
